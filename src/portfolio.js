@@ -204,25 +204,35 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Natours.png.png"),
+      projectName: "Natours App",
+      projectDesc: "Project about Tours",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://natours-project-master.vercel.app/"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Landing.png"),
+      projectName: "Analytics Landing",
+      projectDesc: "Analytics Data project",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://landing-page-omega-rosy.vercel.app/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Restaurant.png"),
+      projectName: "Restuarant landing",
+      projectDesc: "Food Project",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://restaurant-website-opal.vercel.app/"
         }
       ]
     }
